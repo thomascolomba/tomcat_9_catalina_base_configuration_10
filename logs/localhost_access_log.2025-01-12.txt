@@ -1,0 +1,8 @@
+127.0.0.1 - - [12/Jan/2025:17:11:15 +0100] "GET /manager/jmxproxy/?qry=*%3Aj2eeType=Servlet%2c* HTTP/1.1" 401 2562
+127.0.0.1 - tomcat_10 [12/Jan/2025:17:11:25 +0100] "GET /manager/jmxproxy/?qry=*%3Aj2eeType=Servlet%2c* HTTP/1.1" 200 24357
+127.0.0.1 - - [12/Jan/2025:17:11:25 +0100] "GET /favicon.ico HTTP/1.1" 200 8192
+127.0.0.1 - tomcat_10 [12/Jan/2025:17:12:35 +0100] "GET /manager/jmxproxy/?qry=*%3Aj2eeType=Servlet%2c* HTTP/1.1" 200 22441
+127.0.0.1 - tomcat_10 [12/Jan/2025:17:14:35 +0100] "GET /manager/jmxproxy/?qry=*%3Aj2eeType=Servlet%2c* HTTP/1.1" 200 22426
+127.0.0.1 - - [12/Jan/2025:17:16:33 +0100] "GET /myapp-0.1-dev/ControllerServletBeanReader HTTP/1.1" 404 732
+127.0.0.1 - - [12/Jan/2025:17:17:07 +0100] "GET /myapp-0.1-dev/ControllerServlet HTTP/1.1" 200 22
+127.0.0.1 - tomcat_10 [12/Jan/2025:17:18:41 +0100] "GET /manager/jmxproxy/?qry=*%3Aj2eeType=Servlet%2c* HTTP/1.1" 200 22390
